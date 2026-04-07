@@ -140,4 +140,4 @@ The current dataset covers approximately three years of monthly observations. Wh
 
 ## Author
 
-**Grayson Parks** — Principal Strategic Advisor, Customer Analytics
+**Grayson Parks**
